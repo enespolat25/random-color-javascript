@@ -1,4 +1,4 @@
 # random-color-javascript
 ## Rastgele renk Üreteci
 * [Canlı Web Sayfası](http://rastgele-renk-enespolat.surge.sh/)
-![image](https://ibb.co/5Rzc9pp) 
+![](https://i.ibb.co/FDf7WZZ/kamil.png) 
